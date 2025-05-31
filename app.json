@@ -28,7 +28,10 @@
       "description": "Channel ID to force users to join (optional). Example: -1009876543210",
       "required": false,
       "value": "-1002536216907"
-    }
+    },
+    "HEROKU": {
+      "description": "Set this to true on Heroku",
+      "value": "true"
   },
   "buildpacks": [
     {
