@@ -1,7 +1,7 @@
 {
   "name": "Terabox Downloader Bot",
   "description": "A Telegram bot to download files from Terabox, using Pyrogram and Aria2.",
-  "repository": "https://github.com/AdrashxX/Terabox-Downloader-Bot",
+  "repository": "https://github.com/IamElite/TBDL",
   "keywords": ["telegram", "bot", "terabox", "pyrogram", "aria2"],
   "env": {
     "BOT_TOKEN": {
