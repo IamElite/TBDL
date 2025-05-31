@@ -33,7 +33,7 @@ logging.getLogger("pyrogram.dispatcher").setLevel(logging.ERROR)
 # Get Aria2 host and port from environment variables, with fallbacks
 ARIA2_HOST = os.environ.get('ARIA2_HOST', 'http://localhost')
 ARIA2_PORT = int(os.environ.get('ARIA2_PORT', 6800))
-ARIA2_SECRET = os.environ.get('ARIA2_SECRET', '') # Assuming secret might be needed
+ARIA2_SECRET = os.environ.get('ARIA2_SECRET', 'lollog') # Assuming secret might be needed
 
 # Initialize Aria2 API client
 try:
